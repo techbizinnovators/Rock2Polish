@@ -1,0 +1,69 @@
+/*-----------------------------------------------------------------------------------
+    Note: This is Main Style Scss File. 
+-----------------------------------------------------------------------------------
+    CSS INDEX
+    ===================
+    Common
+    Header
+    -- Off canvas menu
+    -- Breadcrumb CSS
+    Banner
+    About
+    Jewelry Tab
+    Call TO Action
+    Text Block
+    Testimonial
+    Latest Post
+    Core Feature
+    -- Dark Style
+    Jewelry
+    -- Jewelry Gird
+    -- Jewelry List
+    -- Jewelry Slider
+      -- Jewelry Slider One
+      -- Jewelry Slider Two
+    -- Jewelry Details
+    Counter
+    Our Menu
+    Contact
+    -- Contact info box
+    Offers
+    Gallery
+    News
+    -- News Details
+    -- Paginations
+    -- Sidebars
+    Booking Form
+    Places
+    -- Places Details
+    Gold Earring
+    Footer
+    -- Subscibe
+    -- Widgets
+    -- Copy Right
+    -- Back to top
+
+-----------------------------------------------------------------------------------*/
+
+@import 'variables';
+@import 'mixin';
+@import 'common';
+@import 'header';
+@import 'banner';
+@import 'about';
+@import 'roomtab';
+@import 'cta';
+@import 'text-block';
+@import 'testimonial';
+@import 'latest-post';
+@import 'feature';
+@import 'room';
+@import 'counter';
+@import 'menu';
+@import 'contact';
+@import 'offers_gallery';
+@import 'news';
+@import 'booking-form';
+@import 'places';
+@import 'restaurant';
+@import 'footer';

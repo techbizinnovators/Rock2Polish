@@ -1,0 +1,22 @@
+// Font Diamond Ring
+$oldstan: 'Old Standard TT', serif;
+$archivo: 'Archivo', sans-serif;
+$roboto: 'Roboto', sans-serif;
+
+// Colors ---------------
+$primary-color: #fcd462;
+$text-color: #cecece;
+$heading-color: #fff;
+$main-bg: #1c1b19;
+$black: #fff;
+$white: #fff;
+
+// Responsive Variables
+$xxl: '(min-width: 1600px)';
+$xl: 'only screen and (min-width: 1200px) and (max-width: 1599px)';
+$lg: 'only screen and (min-width: 992px) and (max-width: 1199px)';
+$md: 'only screen and (min-width: 768px) and (max-width: 991px)';
+$sm: '(max-width: 767px)';
+$lsm: 'only screen and (min-width: 576px) and (max-width: 767px)';
+$xsm: '(max-width: 575px)';
+$tiny: '(max-width: 399px)';

@@ -1,0 +1,277 @@
+<section class="blog-section pt-120 pb-120">
+        <div class="container">
+            <div class="row justify-content-center column-reverse">
+                <div class="col-lg-12">
+                    <div class="news-details-box">
+                        <div class="entry-content">
+                            <a href="#" class="cat">Businese</a>
+                            <h2 class="title">How to Shop For Jewelry When You Have a Metal Allergy. </h2>
+                            <ul class="post-meta">
+                                <li><a href="#"><i class="fal fa-user"></i>by Piklo D. Sindom</a></li>
+                                <li><a href="#"><i class="fal fa-calendar-alt"></i>24th March 2020</a></li>
+                                <li><a href="#"><i class="fal fa-comments"></i>35 Comments</a></li>
+                            </ul>
+                            <p class="mb-30">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+                                dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+                                mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit
+                                voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo
+                                inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim
+                                ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur
+                                magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui
+                                dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam
+                                eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+                            </p>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+                                dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+                            </p>
+                            <figure class="mt-45 mb-45">
+                                <img src="assets/img/blog-details/01.jpg" alt="Image">
+                            </figure>
+                            <h3 class="subtitle"> How Are Colored Diamonds Formed?</h3>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+                                dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.
+                            </p>
+                            <div class="gap"></div>
+                            <h3 class="subtitle">Setting the mood with incense</h3>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+                                dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.
+                            </p>
+                            <div class="gap"></div>
+                            <h3 class="subtitle">Setting the mood with incense</h3>
+                            <ul class="list-icon">
+                                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li>
+                                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li>
+                                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li>
+                                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li>
+                                <li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li>
+                            </ul>
+                            <blockquote class="mt-40 mb-40">
+                                <span class="quote-by">by Hetmayar</span>
+                                Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug
+                                pitchfork post-ironic.
+                            </blockquote>
+                            <p class="mb-30">
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+                                dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+                                mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit
+                                voluptatem accusantium.
+                            </p>
+                            <div class="row align-items-center">
+                                <div class="col-md-5 mb-30">
+                                    <img src="assets/img/blog-details/02.jpg" alt="Image">
+                                </div>
+                                <div class="col-md-7 mb-30">
+                                    <p>
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+                                        nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                                        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+                                        fugiat nulla pariatur. Excepteur sint occaecat
+                                    </p>
+                                </div>
+                            </div>
+                            <p>
+                                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                                exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure
+                                dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+                                Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
+                                mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit
+                                voluptatem.
+                            </p>
+                        </div>
+                        <div class="entry-footer">
+                            <div class="tag-and-share mt-50 mb-50 d-md-flex align-items-center justify-content-between">
+                                <div class="tag">
+                                    <h5>Related Tags</h5>
+                                    <ul>
+                                        <li><a href="#">Rings</a></li>
+                                        <li><a href="#">desgin</a></li>
+                                        <li><a href="#">necklace</a></li>
+                                    </ul>
+                                </div>
+                                <div class="share text-md-right">
+                                    <h5>Social Share</h5>
+                                    <ul>
+                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-medium"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-tumblr"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="post-nav d-md-flex align-items-center justify-content-between">
+                                <div class="prev-post">
+                                    <span>Prev Post</span>
+                                    <a href="#">Diamond Is Investment </a>
+                                </div>
+                                <span class="icon">
+                                    <img src="assets/img/blog-details/icon.png" alt="icon">
+                                </span>
+                                <div class="next-post text-right">
+                                    <span>Next Post</span>
+                                    <a href="#">Less Is More</a>
+                                </div>
+                            </div>
+                            <div class="related-post mt-50">
+                                <h3 class="mb-30">Releted Post</h3>
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="related-post-box mb-50">
+                                            <div class="thumb" style="background-image: url(assets/img/blog-details/03.jpg);">
+                                            </div>
+                                            <div class="desc">
+                                                <a href="#" class="date"><i class="far fa-calendar-alt"></i>24th March
+                                                    2020</a>
+                                                <h4><a href="#">Non-Diamond Gemstones for Engagement Rings</a></h4>
+                                                <p>Lorem ipsum dolor sit amet, conse ctet ur adipisicing elit, sed
+                                                    doing.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="related-post-box mb-50">
+                                            <div class="thumb" style="background-image: url(assets/img/blog-details/04.jpg);">
+                                            </div>
+                                            <div class="desc">
+                                                <a href="#" class="date"><i class="far fa-calendar-alt"></i>24th March
+                                                    2020</a>
+                                                <h4><a href="#">Non-Diamond Gemstones for Engagement Rings</a></h4>
+                                                <p>Lorem ipsum dolor sit amet, conse ctet ur adipisicing elit, sed
+                                                    doing.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="author-info-box mb-45">
+                                <div class="author-img">
+                                    <img src="assets/img/blog-details/author.jpg" alt="Image">
+                                </div>
+                                <div class="info-text">
+                                    <span>Written by</span>
+                                    <h3>Rosalina D. William</h3>
+                                    <p>
+                                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+                                        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
+                                        nostrud exercitation is enougn for today.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="comment-template">
+                            <h3 class="box-title">03 Comments</h3>
+                            <ul class="comments-list mb-100">
+                                <li>
+                                    <div class="comment-img">
+                                        <img src="assets/img/blog-details/avatar-1.jpg" alt="img">
+                                    </div>
+                                    <div class="comment-desc">
+                                        <div class="desc-top">
+                                            <h6>Rosalina Kelian</h6>
+                                            <span class="date">19th May 2020</span>
+                                            <a href="#" class="reply-link"><i class="far fa-reply"></i>Reply</a>
+                                        </div>
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                            consequat.
+                                        </p>
+                                    </div>
+                                    <ul class="children">
+                                        <li>
+                                            <div class="comment-img">
+                                                <img src="assets/img/blog-details/avatar-2.jpg" alt="img">
+                                            </div>
+                                            <div class="comment-desc">
+                                                <div class="desc-top">
+                                                    <h6>Rosalina Kelian</h6>
+                                                    <span class="date">19th May 2020</span>
+                                                    <a href="#" class="reply-link"><i class="far fa-reply"></i>Reply</a>
+                                                </div>
+                                                <p>
+                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+                                                    eiusmod
+                                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+                                                    veniam,
+                                                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+                                                    commodo
+                                                    consequat.
+                                                </p>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li>
+                                    <div class="comment-img">
+                                        <img src="assets/img/blog-details/avatar-3.jpg" alt="img">
+                                    </div>
+                                    <div class="comment-desc">
+                                        <div class="desc-top">
+                                            <h6>Rosalina Kelian</h6>
+                                            <span class="date">19th May 2020</span>
+                                            <a href="#" class="reply-link"><i class="far fa-reply"></i>Reply</a>
+                                        </div>
+                                        <p>
+                                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                                            consequat.
+                                        </p>
+                                    </div>
+                                </li>
+                            </ul>
+                            <h3 class="box-title">Post Comment</h3>
+                            <div class="comment-form">
+                                <form action="#">
+                                    <div class="input-group input-group-two textarea mb-20">
+                                        <textarea placeholder="Type your comments...."></textarea>
+                                        <div class="icon"><i class="fas fa-pen"></i></div>
+                                    </div>
+                                    <div class="input-group input-group-two mb-20">
+                                        <input type="text" placeholder="Type your Name....">
+                                        <div class="icon"><i class="fas fa-user"></i></div>
+                                    </div>
+                                    <div class="input-group input-group-two mb-20">
+                                        <input type="email" placeholder="Type your email....">
+                                        <div class="icon"><i class="fas fa-envelope"></i></div>
+                                    </div>
+                                    <div class="input-group input-group-two mb-20">
+                                        <input type="url" placeholder="Type your Website....">
+                                        <div class="icon"><i class="fas fa-globe"></i></div>
+                                    </div>
+                                    <div class="input-group  mt-30">
+                                        <button type="submit" class="main-btn btn-filled"><i class="far fa-comments"></i> Post
+                                            Comment</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+               
+                </div>
+            </div>
+        </div>
+    </section>
