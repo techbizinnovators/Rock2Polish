@@ -55,7 +55,31 @@ class Main extends CI_Controller {
 		$this->load->view('web/header');
 		$this->load->view('web/round');
 		$this->load->view('web/footer');
+		
 	 }
+
+      public function round_details()
+     { 
+	$this->load->view('web/header');
+	$this->load->view('web/round-details');
+	$this->load->view('web/footer');
+      }
+
+	  public function round_details2()
+     { 
+	$this->load->view('web/header');
+	$this->load->view('web/round-details2');
+	$this->load->view('web/footer');
+      }
+
+      public function call_details()
+     { 
+	$this->load->view('web/header');
+	$this->load->view('web/call-details');
+	$this->load->view('web/footer');
+      }
+
+
 	 public function radiant()
 	 {
 		$this->load->view('web/header');
