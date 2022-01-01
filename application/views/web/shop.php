@@ -41,7 +41,7 @@ Curating affordable luxury so you can dream till eternity...</p>
            
             <ul class="about-features">
                 <li class="wow fadeInUp" data-wow-delay=".3s">
-                    <a href="<?php echo base_url();?>Main/load_round">
+                    <a href="<?php echo base_url();?>Main/round_details">
                        
                         <img src="<?php echo base_url();?>assets/shapes/round.png"></img>
                         <span class="title">Round</span>
