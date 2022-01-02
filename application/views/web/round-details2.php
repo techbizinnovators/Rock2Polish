@@ -211,55 +211,55 @@ Free Overnight Shipping,Hassle-Free Returns | Ships as a loose diamond by: Frida
 <p style="color: #ffffff"> This 1.01 carat round diamond H color si1 clarity has Excellent proportions and a diamond grading report from IGI </p>
         <div class="table" style="margin-top: 1rem;">
 
-        <table class="table">
+        <table class="table" style="border-style:hidden;">
   <thead>
-    <tr style= "color:#fff;">
-      <th scope="col">Shape</th>
-      <th scope="col">Round</th>
-      <th scope="col">Symmetry</th>
-      <th scope="col">Excellent</th>
+    <tr style= "color:#fff;  background-color: #353535">
+      <th scope="col" style= "font-weight:100; border-style:hidden">Shape</th>
+      <th scope="col" style= "font-weight:100; border-style:hidden">Round</th>
+      <th scope="col" style= "font-weight:100; border-style:hidden">Symmetry</th>
+      <th scope="col" style= "font-weight:100; border-style:hidden">Excellent</th>
 
     </tr>
   </thead>
   <tbody>
     <tr style= "color:#fff;">
     
-      <td>Carat</td>
-      <td>1.01</td>
-      <td>Fluorescence</td>
-      <td>Slight</td>
+      <td style="border-style:hidden;">Carat</td>
+      <td style="border-style:hidden;">1.01</td>
+      <td style="border-style:hidden;">Fluorescence</td>
+      <td style="border-style:hidden;">Slight</td>
   
     </tr>
 
-    <tr style= "color:#fff;">
+    <tr style= "color:#fff;  background-color: #353535">
      
-      <td>Color</td>
-      <td>H</td>
-      <td>L/W(mm)</td>
-      <td>6.38x6.42</td>
+      <td style="border-style:hidden;">Color</td>
+      <td style="border-style:hidden;">H</td>
+      <td style="border-style:hidden;">L/W(mm)</td>
+      <td style="border-style:hidden;">6.38x6.42</td>
     </tr>
 
     <tr style= "color:#fff;">
      
-      <td>Clarity</td>
-      <td>SI1</td>
-      <td>L/W Ratio</td>
-      <td>1.01</td>
+      <td style="border-style:hidden;">Clarity</td>
+      <td style="border-style:hidden;">SI1</td>
+      <td style="border-style:hidden;">L/W Ratio</td>
+      <td style="border-style:hidden;">1.01</td>
     </tr>
 
 
-    <tr style= "color:#fff;">
+    <tr style= "color:#fff;  background-color: #353535">
      
-     <td>Cut</td>
-     <td>Excellent</td>
-     <td>Certificate</td>
-     <td>IGI</td>
+     <td style="border-style:hidden;">Cut</td>
+     <td style="border-style:hidden;">Excellent</td>
+     <td style="border-style:hidden;">Certificate</td>
+     <td style="border-style:hidden;">IGI</td>
    </tr>
 
    <tr style= "color:#fff;">
      
-     <td>Polish</td>
-     <td>Excellent</td>
+     <td style="border-style:hidden;">Polish</td>
+     <td style="border-style:hidden;">Excellent</td>
    
    </tr>
 
@@ -279,7 +279,7 @@ Free Overnight Shipping,Hassle-Free Returns | Ships as a loose diamond by: Frida
 					<a class="nav-link lead" role="tab" data-toggle="tab" href="#tabReview">Reviews</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link lead" role="tab" data-toggle="tab" href="#tabFaq">FAQ's</a>
+					<a class="nav-link lead" role="tab" data-toggle="tab" href="#tabFaq">FAQs</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link lead" role="tab" data-toggle="tab" href="#tabVideo">Video</a>
@@ -630,8 +630,8 @@ Each and every diamond sold on our website is exclusive to keystargems.com. Be w
 		<div class="col-md-2">
 			<div class="card" style="background-color:#353530">
 				<div class="card-header">Account</div>
-				<ul class="list-group list-group-flush">
-					<li class="list-group-item p-2" style="background-color:#353530"><a href="#" title="">Sign In</a></li>
+				<ul class="list-group list-group-flush">                        		
+					<li class="list-group-item p-2" style="background-color:#353530"><a href="<?php echo base_url();?>Main/sign_in" title="">Sign In</a></li>
 					<li class="list-group-item p-2" style="background-color:#353530"><a href="#" title="">Sign up</a></li>
 					<li class="list-group-item p-2" style="background-color:#353530"><a href="#" title="">My Account</a></li>
 					<li class="list-group-item p-2" style="background-color:#353530"><a href="#" title="">Order History</a></li>
