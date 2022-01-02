@@ -72,6 +72,13 @@ class Main extends CI_Controller {
 	$this->load->view('web/footer');
       }
 
+	  public function sign_in()
+	  { 
+	 $this->load->view('web/header');
+	 $this->load->view('web/sign-in');
+	 $this->load->view('web/footer');
+	   }
+
       public function call_details()
      { 
 	$this->load->view('web/header');
