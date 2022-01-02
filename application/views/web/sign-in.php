@@ -5,7 +5,7 @@
         <div class="container">
             <div class="breadcrumb-text">
                 <span>EVERYONE CAN SHINE</span>
-                <h2 class="page-title">Log-in/Sign-in Page</h2>
+                <h2 class="page-title">Sign-in/Sign-up Page</h2>
                 <ul class="breadcrumb-nav">
                     <li><a href="<?php echo base_url();?>">Home</a></li>
                     <li class="active">Profile</li>
