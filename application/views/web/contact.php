@@ -25,8 +25,7 @@
                             </div>
                             <div class="desc">
                                 <h4>Head Office</h4>
-                                <p>3rd Floor, Krishna Complex,<br> Opp. Varachha Police Station, Mini Bazar
-Varachha,<br> Surat, GJ - 395006</p>
+                                <p>AE- 2080, Bharat Diamond Bourse,<br> Bandra kurla complex ,<br> bandra east,<br> Mumbai,  maharashtra- 400051</p>
                             </div>
                         </div>
                     </div>
@@ -37,11 +36,14 @@ Varachha,<br> Surat, GJ - 395006</p>
                             </div>
                             <div class="desc">
                                 <h4>Phone Numbers</h4>
-                                <a href="tel:+919722248222">Mumbai: +91 97222 48222</a>
-                                <a href="tel:+919824050012">Surat: +91 98240 50012</a>
+                                <!--<a href="tel:+919722248222">Mumbai: +91 97222 48222</a>-->
+                                <!--<a href="tel:+91 9726061616">Surat: +91 9726061616</a>-->
                                 <a href="tel:+1 201 920 5576">New York: +1 201 920 5576</a>
-                                <a href="tel:1300 861 728">Brisbane: 1300 861 728</a>
-                          
+                                <!--<a href="tel:1300 861 728">Brisbane: 1300 861 728</a>-->
+                                <!--<a href="https://wa.me/+918511647269">Whatsapp: +918511647269</a>-->
+                                <a href="https://wa.me/+9726061616"> India: +919726061616/ +918160138646</a>
+
+
                             </div>
                         </div>
                     </div>
@@ -52,7 +54,7 @@ Varachha,<br> Surat, GJ - 395006</p>
                             </div>
                             <div class="desc">
                                 <h4>Email Address</h4>
-                                <a href="mailto:sales@keystargems.com">sales@keystargems.com</a>
+                                <a href="mailto:sales@rock2polish.com">sales@Rock2Polish.com</a>
                             </div>
                         </div>
                     </div>
@@ -70,7 +72,7 @@ Varachha,<br> Surat, GJ - 395006</p>
               <path class="diamond-spark spark-4" d="M456.607,435.393l-63-63c-5.858-5.857-15.356-5.857-21.213,0c-5.858,5.858-5.858,15.356,0,21.213l63,63    c2.928,2.929,6.767,4.394,10.606,4.394s7.678-1.465,10.607-4.394C462.465,450.748,462.465,441.25,456.607,435.393z" fill="#ffffff" />
             </svg>
           </div>
- 
+
           <h2> Our Locations</h2>
         </div>
         <div class="row">
@@ -86,7 +88,7 @@ Varachha,<br> Surat, GJ - 395006</p>
                   <h4>
                     <a href="#"> Brisbane, Australia </a>
                   </h4>
-         
+
                 </div>
               </div>
             </div>
@@ -103,7 +105,7 @@ Varachha,<br> Surat, GJ - 395006</p>
                   <h4>
                     <a href="#">Mumbai, India</a>
                   </h4>
-         
+
                 </div>
               </div>
             </div>
@@ -120,7 +122,7 @@ Varachha,<br> Surat, GJ - 395006</p>
                   <h4>
                     <a href="#">New York City, USA</a>
                   </h4>
-       
+
                 </div>
               </div>
             </div>
@@ -137,12 +139,12 @@ Varachha,<br> Surat, GJ - 395006</p>
                   <h4>
                     <a href="#">Surat, India</a>
                   </h4>
-       
+
                 </div>
               </div>
             </div>
           </div>
-          
+
         </div>
       </div>
     </section>
@@ -151,7 +153,7 @@ Varachha,<br> Surat, GJ - 395006</p>
     <div class="video-wrap video-wrap-two video-about mb-60" style="background-image: url(<?php echo base_url();?>assets/map.jpg);">
         </div>
             <!-- Contact Mapts -->
-     
+
              <div class="contact-form">
                 <form action="<?php echo base_url();?>Main/send_contact" method="post">
                     <div class="row">
@@ -199,4 +201,4 @@ Varachha,<br> Surat, GJ - 395006</p>
         </div>
       </div>
     </div>
-    <!--====== Modal Popup End ======-->    
+    <!--====== Modal Popup End ======-->

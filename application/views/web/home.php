@@ -16,7 +16,7 @@ fbq('track', 'ViewContent');
 
 </script>
 <noscript>
-<img height="1" width="1" 
+<img height="1" width="1"
 src="https://www.facebook.com/tr?id=693528431337053&ev=PageView
 &noscript=1"/>
 </noscript>
@@ -63,7 +63,7 @@ src="https://www.facebook.com/tr?id=693528431337053&ev=PageView
               <div class="single-thumb">
                 <img src="<?php echo base_url(); ?>assets/home_slider1.png" alt="images">
               </div>
-         
+
             </div>
           </div>
         </div>
@@ -120,8 +120,8 @@ src="https://www.facebook.com/tr?id=693528431337053&ev=PageView
                         <img src="<?php echo base_url();?>assets/shapes/radiant_n.png" alt="instagram-feed">
                     </a>
                 </div>
-          
-               
+
+
             </div>
         </div>
     </div>
@@ -131,18 +131,18 @@ src="https://www.facebook.com/tr?id=693528431337053&ev=PageView
         <div class="section-title-icon">
        <i class="fa fa-gem"></i>
         </div>
-       
+
         <h2><u>Our diamonds are certified by IGI Antwerp and GIA</u></h2>
       </div>
   <!--====== ABOUT PART START ======-->
-  
+
   <!--====== BANNER PART ENDS ======-->
 <!--  <section class="about-section style-2 pt-115 pb-115" style="margin-bottom:-290px;">
       <div class="container">
         <div class="row">
           <div class="col-lg-6 wow fadeInLeft parallax_scroll_down" data-wow-delay=".3s">
             <img src="<?php echo base_url();?>assets/home_about1.jpeg" class="img-fluid" alt="img">
-            <p class="mt-20" style="font-size:18px;">Keystar is one among the leading name with the widest collection of lab created diamonds available within the market.</p>
+            <p class="mt-20" style="font-size:18px;">Rock 2 Polishis one among the leading name with the widest collection of lab created diamonds available within the market.</p>
           </div>
           <div class="col-lg-6 wow fadeInRight parallax_scroll_up" data-wow-delay=".3s">
             <div class="abour-text mt-100">
@@ -158,43 +158,41 @@ src="https://www.facebook.com/tr?id=693528431337053&ev=PageView
         </div>
       </div>
     </section>-->
-    
+
   <section class="about-section" style="position:unset;">
         <div class="container" style="max-width: 1509px;">
-           
-            <div class="about-text-box" style="background:#1c1b19;margin-top:-60px;"> 
+
+            <div class="about-text-box" style="background:#1c1b19;margin-top:-60px;">
                 <div class="row align-items-center">
-                
+
                     <div class="col-lg-6">
-                     
+
                     <div class="about-img">
                             <img src="<?php echo base_url();?>assets/hpht.png" alt="images">
                         </div>
-                  
+
                     </div>
                     <div class="col-lg-6" style="margin-top:0px;">
                         <div class="about-text">
                            <h3>Master-Cut</h3>
-                
+
                             <p style="font-size:17px;text-align:justify;">
-                     
-                         
-We pledge to cut every facet of our diamond with clarity reflecting luxury from every angle. The quality of our diamonds is par excellence which can be passed down to generations as the optimum style statement. Manmade diamonds are on a verge of making history and have begun to bring about a revolution in the jewellery industry in this decade. 
+
+
+We pledge to cut every facet of our diamond with clarity reflecting luxury from every angle. The quality of our diamonds is par excellence which can be passed down to generations as the optimum style statement. Manmade diamonds are on a verge of making history and have begun to bring about a revolution in the jewellery industry in this decade.
 </p>
 <a href="<?php echo base_url(); ?>Main/master_cut" class="main-btn btn-filled mt-40"> Know More</a>
-                    
+
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </section>
-    
-    <section class="counter-section" style="margin-top:80px;">
+
+    <!-- <section class="counter-section" style="margin-top:80px;">
         <div class="container">
-            <!-- Section Title -->
-    
-            <!-- Counter -->
+
             <div class="row justify-content-center">
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="counter-box counter-box-two" >
@@ -224,43 +222,41 @@ We pledge to cut every facet of our diamond with clarity reflecting luxury from 
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6">
-                
-                
-            
+
+
+
                     <div class="counter-box counter-box-two">
-                  
+
                         <div class="icon">
                             <i class="flaticon-clock"></i>
                         </div>
                         <h5><span class="counter" style="font-size:30px;">40</span>+</h5>
                         <span class="title">Years experience</span>
-                      
+
                     </div>
-     
+
                 </div>
             </div>
-            <!-- Gallery -->
-            
         </div>
-    </section>
+    </section> -->
   <!--  <section class="latest-news pt-120 pb-120">
         <div class="section-fw">
             <div class="row">
                 <div class="col-md-4 col-6">
                 <div class="counter-box counter-box-two">
-                  
+
                   <div class="icon">
                       <i class="flaticon-clock"></i>
                   </div>
                   <h4><span class="counter">40</span>+</h4>
                   <span class="title">Years experience</span>
-                
+
               </div>
 
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="latest-post-box mb-30">
-                        
+
                         <div class="post-desc">
                             <ul class="post-meta">
                                 <li>
@@ -280,7 +276,7 @@ We pledge to cut every facet of our diamond with clarity reflecting luxury from 
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="latest-post-box mb-30">
-                   
+
                         <div class="post-desc">
                             <ul class="post-meta">
                                 <li>
@@ -300,7 +296,7 @@ We pledge to cut every facet of our diamond with clarity reflecting luxury from 
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6">
                     <div class="latest-post-box mb-30">
-                   
+
                         <div class="post-desc">
                             <ul class="post-meta">
                                 <li>
@@ -318,9 +314,9 @@ We pledge to cut every facet of our diamond with clarity reflecting luxury from 
                         </div>
                     </div>
                 </div>
-                
+
             </div>
-            
+
         </div>
     </section>-->
   <div class="section-title text-center mb-50">
@@ -376,7 +372,7 @@ We pledge to cut every facet of our diamond with clarity reflecting luxury from 
         </div>
       </div>
     </div>
-    
+
 
     <div class="rooms-content-wrap">
 
@@ -392,49 +388,49 @@ We pledge to cut every facet of our diamond with clarity reflecting luxury from 
                     <i class="flaticon-bracelet"></i>
                   </div>
                   <h3><a href="<?php echo base_url();?>Main/jewellery">Gold Bracelet</a></h3>
-                
+
                 </div>
                 <div class="single-content">
                   <div class="icon">
                     <i class="flaticon-earrings"></i>
                   </div>
                   <h3><a href="<?php echo base_url();?>Main/jewellery">Diamond Earings</a></h3>
-          
+
                 </div>
                 <div class="single-content">
                   <div class="icon">
                     <i class="flaticon-necklace"></i>
                   </div>
                   <h3><a href="<?php echo base_url();?>Main/jewellery">Diamond Necklace</a></h3>
-            
+
                 </div>
                 <div class="single-content">
                   <div class="icon">
                     <i class="flaticon-necklace"></i>
                   </div>
                   <h3><a href="<?php echo base_url();?>Main/jewellery">Diamond Necklace</a></h3>
-             
+
                 </div>
                 <div class="single-content">
                   <div class="icon">
                     <i class="flaticon-ring"></i>
                   </div>
                   <h3><a href="<?php echo base_url();?>Main/jewellery">Diamond Rings</a></h3>
-            
+
                 </div>
                 <div class="single-content">
                   <div class="icon">
                     <i class="flaticon-necklace"></i>
                   </div>
                   <h3><a href="<?php echo base_url();?>Main/jewellery">Diamond Necklace</a></h3>
-            
+
                 </div>
                 <div class="single-content">
                   <div class="icon">
                     <i class="flaticon-necklace"></i>
                   </div>
                   <h3><a href="<?php echo base_url();?>Main/jewellery">Gold Necklace</a></h3>
-            
+
                 </div>
               </div>
             </div>
@@ -449,12 +445,12 @@ We pledge to cut every facet of our diamond with clarity reflecting luxury from 
         <div class="col-lg-7">
           <div class="block-text">
             <div class="section-title mb-20">
-         
+
               <h2>Conflict free Diamonds</h2>
             </div>
             <p class="pr-50" style="font-size:17px;">
             As our diamonds are labgrown, they are naturally conflict- free diamonds. Today thousands of natural diamond merchants claim to be affiliated with the Kimberly Process which certifies that a diamond is conflict free . Nevertheless, the Kimberly Process defines conflict diamonds as diamonds that finance rebel movements against recognised governments. It largely fails to see that a large number of diamond mining has encouraged violence , child abuse, environmental degradation, poverty and poor working conditions.
-            </span> 
+            </span>
             </p>
           </div>
         </div>
@@ -462,5 +458,4 @@ We pledge to cut every facet of our diamond with clarity reflecting luxury from 
     </div>
   </section>
 
-  
-    
+

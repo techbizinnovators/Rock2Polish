@@ -17,9 +17,9 @@
               </div>
                     <div class="col-lg-6">
                 <div class="h-100 d-flex align-items-center justify-content-end">
-       
-                 
-        
+
+
+
                 </div>
               </div>
             </div>
@@ -42,16 +42,16 @@
                   </li>
                   <li>
                     <i class="flaticon-message"></i>
-                    <a href="mailto:sales@keystargems.com"><span>Email Address</span>sales@keystargems.com</a>
+                    <a href="mailto:sales@Rock 2 Polishgems.com"><span>Email Address</span>sales@Rock 2 Polishgems.com</a>
                   </li>
-               
-        
-              
+
+
+
                 </ul>
               </div>
             </div>
- 
-            
+
+
             <div class="col-lg-3">
               <div class="sigma-footer-search">
                 <form>
@@ -83,18 +83,18 @@
     </div>
 
 
-    <!-- Copyright 
+    <!-- Copyright
     <div class="sigma-copyright">
       <div class="container-fluid">
         <div class="sigma-copyright-inner">
           <div class="row">
-          
+
             <div class="col-lg-6 col-md-5 order-2 order-md-1">
-              <p class="sigma-copyright-text">Copyright Keystar Gems</a> - 2020    <a href="https://www.facebook.com/keystargems19"><i class="fab fa-facebook-f" style="font-size:20px;color:#fcd462;"></i></a>
-               <a href="https://twitter.com/GemsKeystar"><i class="fab fa-twitter"  style="font-size:20px;color:#fcd462;"></i></a>
-               <a href="https://www.linkedin.com/in/keystar-gems-0a3a261b9/?originalSubdomain=in"><i class="fab fa-linkedin"  style="font-size:20px;color:#fcd462;"></i></a>
-          
-               <a href="https://www.instagram.com/keystar_gems/"><i class="fab fa-instagram"  style="font-size:20px;color:#fcd462;"></i></a>
+              <p class="sigma-copyright-text">Copyright Rock 2 Polish Gems</a> - 2020    <a href="https://www.facebook.com/Rock 2 Polishgems19"><i class="fab fa-facebook-f" style="font-size:20px;color:#fcd462;"></i></a>
+               <a href="https://twitter.com/GemsRock 2 Polish"><i class="fab fa-twitter"  style="font-size:20px;color:#fcd462;"></i></a>
+               <a href="https://www.linkedin.com/in/Rock 2 Polish-gems-0a3a261b9/?originalSubdomain=in"><i class="fab fa-linkedin"  style="font-size:20px;color:#fcd462;"></i></a>
+
+               <a href="https://www.instagram.com/Rock 2 Polish_gems/"><i class="fab fa-instagram"  style="font-size:20px;color:#fcd462;"></i></a>
            </p>
             </div>
             <div class="col-lg-6 col-md-7 order-1 order-md-2">
@@ -106,7 +106,7 @@
                   <li>
                     <a href="https://www.privacypolicygenerator.info/live.php?token=5i2Pgglq2lxZr05boe6icyHBVL5AuVMZ">Privacy Environmental Policy</a>
                   </li>
-                  
+
                 </ul>
               </div>
             </div>
@@ -124,21 +124,21 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-md-5 order-2 order-md-1">
-                        <p class="copyright-text" style="font-weight:500;">copyright by@kEYSTAR GEMS 2020</p>
+                        <p class="copyright-text" style="font-weight:500;">copyright by@Rock2Polish 2020</p>
                     </div>
-                    <div class="col-md-7 order-1 order-md-2">
+                    <!-- <div class="col-md-7 order-1 order-md-2">
                         <div class="social-links">
-                            <a href="https://www.facebook.com/keystargems19"><i class="fab fa-facebook-f" target="_blank"></i></a>
-                            <a href="https://twitter.com/GemsKeystar"><i class="fab fa-twitter" target="_blank"></i></a>
-                            <a href="https://www.instagram.com/keystar_gems"><i class="fab fa-instagram" target="_blank"></i></a>
-                            <a href="https://www.linkedin.com/in/keystar-gems-0a3a261b9/?originalSubdomain=in" target="_blank"><i class="fab fa-linkedin"></i></a>
+                            <a href="https://www.facebook.com/Rock 2 Polishgems19"><i class="fab fa-facebook-f" target="_blank"></i></a>
+                            <a href="https://twitter.com/GemsRock 2 Polish"><i class="fab fa-twitter" target="_blank"></i></a>
+                            <a href="https://www.instagram.com/Rock 2 Polish_gems"><i class="fab fa-instagram" target="_blank"></i></a>
+                            <a href="https://www.linkedin.com/in/Rock 2 Polish-gems-0a3a261b9/?originalSubdomain=in" target="_blank"><i class="fab fa-linkedin"></i></a>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
     </footer>
-  
+
   <!--====== FOOTER PART END ======-->
   <!-- Quick View Modal Start -->
   <div class="modal fade quick-view-modal" id="quickViewModal" role="dialog" aria-hidden="true">
@@ -277,7 +277,7 @@
       </div>
     </div>
   </div>
-  
+
   <!--====== Modal Popup End ======-->
   <!--====== jquery js ======-->
   <script src="<?php echo base_url(); ?>assets/js/vendor/modernizr-3.6.0.min.js"></script>

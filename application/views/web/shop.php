@@ -13,7 +13,7 @@
     </section>
     <section class="about-section" style="position:unset;">
         <div class="container">
-           
+
             <div class="about-text-box">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
@@ -23,13 +23,13 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="about-text">
-                           
+
                             <h3>       No dream is too big that it can’t be fulfilled! </h3>
                             <p style="font-size:17px;">
-                     
-                            We strive to make your dreams come true with affordable luxury and offer ‘value for money ‘ diamonds. 
+
+                            We strive to make your dreams come true with affordable luxury and offer ‘value for money ‘ diamonds.
 Curating affordable luxury so you can dream till eternity...</p>
-                    
+
                         </div>
                     </div>
                 </div>
@@ -38,11 +38,11 @@ Curating affordable luxury so you can dream till eternity...</p>
     </section>
     <section class="about-section">
         <div class="container">
-           
+
             <ul class="about-features">
                 <li class="wow fadeInUp" data-wow-delay=".3s">
                     <a href="<?php echo base_url();?>Main/load_round">
-                       
+
                         <img src="<?php echo base_url();?>assets/shapes/round.png"></img>
                         <span class="title">Round</span>
                     </a>
@@ -73,7 +73,7 @@ Curating affordable luxury so you can dream till eternity...</p>
                 </li>
                 <li class="wow fadeInUp" data-wow-delay=".3s">
                     <a href="<?php echo base_url();?>Main/radiant">
-                       
+
                         <img src="<?php echo base_url();?>assets/shapes/radiant.png"></img>
                         <span class="title">Radiant</span>
                     </a>
@@ -103,7 +103,7 @@ Curating affordable luxury so you can dream till eternity...</p>
                     </a>
                 </li>
             </ul>
-            
+
         </div>
     </section>
   </section>

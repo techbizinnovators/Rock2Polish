@@ -16,7 +16,7 @@
   <meta name="description" content="" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <!--====== Title ======-->
-  <title> Keystar Gems</title>
+  <title> Rock 2 Polish </title>
   <!--====== Favicon Icon ======-->
   <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/img/favicon.ico" type="img/png" />
   <!--====== Animate Css ======-->
@@ -314,7 +314,7 @@ src="https://www.facebook.com/tr?id=814386532690399&ev=PageView&noscript=1"
   <li></li>
   <li></li>
 </ul>
-<div class="textCon">Keystar Gems</div>
+<div class="textCon">Rock 2 Polish Gems</div>
 </div>
 
   </div>-->
@@ -340,7 +340,7 @@ src="https://www.facebook.com/tr?id=814386532690399&ev=PageView&noscript=1"
             <a href="<?php echo base_url(); ?>">
 
               <div class="site-logo-text">
-              <img src="<?php echo base_url(); ?>assets/logo.png" style="width:200px;height:100px;" alt="Logo">
+              <img src="<?php echo base_url(); ?>assets/rock2polish.png" style="width:100px;height:90px;" alt="Logo">
 
               </div>
             </a>
@@ -400,6 +400,7 @@ src="https://www.facebook.com/tr?id=814386532690399&ev=PageView&noscript=1"
                                             <li class="menu-item">
                                               <a href="<?php echo base_url();?>Main/load_round">Round</a>
                                             </li>
+
                                             <li class="menu-item">
                                               <a href="<?php echo base_url();?>Main/radiant">Radiant</a>
                                             </li>
@@ -566,7 +567,7 @@ src="https://www.facebook.com/tr?id=814386532690399&ev=PageView&noscript=1"
             <a href="<?php echo base_url(); ?>">
 
               <div class="site-logo-text">
-              <img src="<?php echo base_url(); ?>assets/logo.png" style="width:200px;height:100px;" alt="Logo">
+              <img src="<?php echo base_url(); ?>assets/rock2polish.png" style="width:100px;height:90px;" alt="Logo">
 
               </div>
             </a>
@@ -634,7 +635,7 @@ src="https://www.facebook.com/tr?id=814386532690399&ev=PageView&noscript=1"
         <!-- About Widget -->
         <div class="widget about-widget">
           <h5 class="widget-title" style="text-align:justify;">About us</h5>
-          <p style="text-align:justify;">Keystar is one among the leading name with the widest collection of lab created diamonds available within the market.</p>
+          <p style="text-align:justify;">Rock 2 Polish is one among the leading name with the widest collection of lab created diamonds available within the market.</p>
           <p style="text-align:justify;">Our diamonds are grown in a complicated facility using minimal energy keeping the world safe from mining impact & presenting a Clean and Green Eco Friendly Lab Grown Diamond.
 </p>
         </div>
@@ -654,23 +655,23 @@ src="https://www.facebook.com/tr?id=814386532690399&ev=PageView&noscript=1"
             </li>
             <li><a href="<?php echo base_url(); ?>Main/contact">Contact</a>
             </li>
-            <li><a href="https://www.termsofusegenerator.net/live.php?token=Mi4OFMypCbIXT3A50AihtVcWNkpiINVe">Terms & Conditions</a>
+            <!-- <li><a href="https://www.termsofusegenerator.net/live.php?token=Mi4OFMypCbIXT3A50AihtVcWNkpiINVe">Terms & Conditions</a>
             </li>
             <li><a href="https://www.privacypolicygenerator.info/live.php?token=5i2Pgglq2lxZr05boe6icyHBVL5AuVMZ">Privacy Policy</a>
-            </li>
+            </li> -->
           </ul>
         </div>
         <!-- Social Link -->
         <div class="widget social-link">
           <h5 class="widget-title">Contact with us</h5>
           <ul>
-            <li><a href="https://www.facebook.com/keystargems19"><i class="fab fa-facebook-f"></i></a>
+            <li><a href="https://www.facebook.com/Rock 2 Polishgems19"><i class="fab fa-facebook-f"></i></a>
             </li>
-            <li><a href="https://twitter.com/GemsKeystar"><i class="fab fa-twitter"></i></a>
+            <li><a href="https://twitter.com/GemsRock 2 Polish"><i class="fab fa-twitter"></i></a>
             </li>
-            <li><a href="https://www.instagram.com/keystar_gems/"><i class="fab fa-instagram"></i></a>
+            <li><a href="https://www.instagram.com/Rock 2 Polish_gems/"><i class="fab fa-instagram"></i></a>
             </li>
-            <li><a href="https://www.linkedin.com/in/keystar-gems-0a3a261b9/?originalSubdomain=in"><i class="fab fa-linkedin"></i></a>
+            <li><a href="https://www.linkedin.com/in/Rock 2 Polish-gems-0a3a261b9/?originalSubdomain=in"><i class="fab fa-linkedin"></i></a>
             </li>
 
           </ul>
