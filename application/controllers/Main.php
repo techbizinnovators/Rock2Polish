@@ -219,21 +219,21 @@ class Main extends CI_Controller {
 						<td width="70%">'.$name.'</td>
 					</tr>
 					<tr>
-						<td width="30%">Email Address</td>
-						<td width="70%">'.$email.'</td>
-					</tr>
-					<tr>
-						<td width="30%">Contact Number</td>
-						<td width="70%">'.$contact.'</td>
-					</tr>
-					<tr>
-						<td width="30%">Subject For</td>
-						<td width="70%">'.$inquiry_for.'</td>
-					</tr>
-					<tr>
-						<td width="30%">Message</td>
-						<td width="70%">'.$message.'</td>
-					</tr>
+					<td width="30%">Email Address</td>
+					<td width="70%">'.$email.'</td>
+				</tr>
+				<tr>
+				<td width="30%">Contact Number</td>
+				<td width="70%">'.$contact.'</td>
+			</tr>
+			<tr>
+			<td width="30%">Subject For</td>
+			<td width="70%">'.$inquiry_for.'</td>
+		</tr>
+		<tr>
+			<td width="30%">Message</td>
+			<td width="70%">'.$message.'</td>
+		</tr>
 				</table>
 			';
 		    $this->email->set_newline("\r\n");
