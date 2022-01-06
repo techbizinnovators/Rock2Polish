@@ -79,6 +79,41 @@ class Main extends CI_Controller {
 	 $this->load->view('web/footer');
 	   }
 
+	   public function sign_up()
+	   { 
+	  $this->load->view('web/header');
+	  $this->load->view('web/sign-up');
+	  $this->load->view('web/footer');
+		}
+
+		public function forgot_password()
+		{ 
+	   $this->load->view('web/header');
+	   $this->load->view('web/forgot-password');
+	   $this->load->view('web/footer');
+		 }
+
+	   public function wishlist()
+	  { 
+	 $this->load->view('web/header');
+	 $this->load->view('web/wishlist');
+	 $this->load->view('web/footer');
+	   }
+
+	   public function recentactivity()
+	   { 
+	  $this->load->view('web/header');
+	  $this->load->view('web/recentactivity');
+	  $this->load->view('web/footer');
+		}
+
+		public function orderhistory()
+		{ 
+	   $this->load->view('web/header');
+	   $this->load->view('web/orderhistory');
+	   $this->load->view('web/footer');
+		 }
+	 
       public function call_details()
      { 
 	$this->load->view('web/header');
@@ -219,21 +254,21 @@ class Main extends CI_Controller {
 						<td width="70%">'.$name.'</td>
 					</tr>
 					<tr>
-					<td width="30%">Email Address</td>
-					<td width="70%">'.$email.'</td>
-				</tr>
-				<tr>
-				<td width="30%">Contact Number</td>
-				<td width="70%">'.$contact.'</td>
-			</tr>
-			<tr>
-			<td width="30%">Subject For</td>
-			<td width="70%">'.$inquiry_for.'</td>
-		</tr>
-		<tr>
-			<td width="30%">Message</td>
-			<td width="70%">'.$message.'</td>
-		</tr>
+						<td width="30%">Email Address</td>
+						<td width="70%">'.$email.'</td>
+					</tr>
+					<tr>
+						<td width="30%">Contact Number</td>
+						<td width="70%">'.$contact.'</td>
+					</tr>
+					<tr>
+						<td width="30%">Subject For</td>
+						<td width="70%">'.$inquiry_for.'</td>
+					</tr>
+					<tr>
+						<td width="30%">Message</td>
+						<td width="70%">'.$message.'</td>
+					</tr>
 				</table>
 			';
 		    $this->email->set_newline("\r\n");
