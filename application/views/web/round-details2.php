@@ -31,112 +31,35 @@
 		</div>
 
 		<div class="col-md-1">
-			<button class="btn btn-outline-secondary btn-block btn-lg" type="button" style="color:#fff; border-color:#fff">
-				<i class="fas fa-sync-alt"></i>
-			</button>
+		<a href="<?php echo base_url();?>Main/orderhistory" button class="btn btn-outline-secondary btn-block btn-lg" type="button" style="color:#fff; border-color:#fff">
+				<i class="fas fa-shopping-bag"></i>
+			</button> </a>
 		</div>
+
 		<div class="col-md-1">
-			<button class="btn btn-outline-secondary btn-block btn-lg" type="button" style="color:#fff; border-color:#fff">
-				<i class="fas fa-heart"></i>
-			</button>
+		<a href="<?php echo base_url();?>Main/recentactivity"	button class="btn btn-outline-secondary btn-block btn-lg" type="button" style="color:#fff; border-color:#fff">
+				<i class="fas fa-sync-alt"></i>
+			</button></a>
 		</div>
 
        
 		<div class="col-md-2">
 		
-			
         <div class="dropdown">
 
-      <button class="btn btn-outline-secondary btn-block btn-lg dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" style="border-color:#fff; background-color:#fff">
+		<a href="<?php echo base_url();?>Main/wishlist" title="" button class="btn btn-outline-secondary btn-block btn-lg"  style="border-color:#fff; background-color:#fff">
 
-                <i class="fas fa-shopping-bag" style="color:#000;"></i>
-					<span style="color:#000;">Cart</span>
-				</button>
+                <i class="fas fa-heart" style="color:#000;"></i>
+					<span style="color:#000;">Favourites</span>
+				</button> </a>
 
             
-				<div class="dropdown-menu dropdown-menu-right p-3" style="width:500px;">
-                <table class="table table-sm table-striped table-bordered m-0">
-						<tbody>
-							<tr>
-								<td class="text-center">
-									<img src="https://assets.entrepreneur.com/content/3x2/2000/20160305000536-diamond.jpeg" class="img-thumbnail p-0" alt="" />
-								</td>
-								<td class="text-left">
-									<p class="m-0">
-										<a href="#">
-											<i class="fas fa-times"></i>
-										</a>
-										<span>Round</span>
-									</p>
-								</td>
-								<td class="text-center">1x</td>
-								<td class="text-right">$123.20</td>
-							</tr>
-							<tr>
-								<td class="text-center">
-									<img src="https://assets.entrepreneur.com/content/3x2/2000/20160305000536-diamond.jpeg" class="img-thumbnail p-0" alt="" />
-								</td>
-								<td class="text-left">
-									<p class="m-0">
-										<a href="#">
-											<i class="fas fa-times"></i>
-										</a>
-										<span>Asscher</span>
-									</p>
-								</td>
-								<td class="text-center">1x</td>
-								<td class="text-right">$123.20</td>
-							</tr>
-							<tr>
-								<td class="text-center">
-									<img src="https://assets.entrepreneur.com/content/3x2/2000/20160305000536-diamond.jpeg" class="img-thumbnail p-0" alt="" />
-								</td>
-								<td class="text-left">
-									<p class="m-0">
-										<a href="#">
-											<i class="fas fa-times"></i>
-										</a>
-										<span>Heart</span>
-									</p>
-								</td>
-								<td class="text-center">1x</td>
-								<td class="text-right">$123.20</td>
-							</tr>
-							<tr>
-								<td class="text-right" colspan="3">Sub-Total</td>
-								<td class="text-right">$601.00</td>
-							</tr>
-							<tr>
-								<td class="text-right" colspan="3">Eco Tax (-2.00)</td>
-								<td class="text-right">$4.00</td>
-							</tr>
-							<tr>
-								<td class="text-right" colspan="3">VAT (20%)</td>
-								<td class="text-right">$120.20</td>
-							</tr>
-							<tr>
-								<td class="text-right" colspan="3">Total</td>
-								<td class="text-right">$725.20</td>
-							</tr>
-							<tr>
-								<td class="text-right" colspan="4">
-									<a class="btn btn-secondary" href="#" role="button">
-										<i class="fas fa-shopping-cart"></i>
-										<span>View Cart</span>
-									</a>
-									<a class="btn btn-primary" href="#" role="button">
-										<i class="fas fa-share"></i>
-										<span>Checkout</span>
-									</a>
-								</td>
-							</tr>
-						</tbody>
-					</table>
-				</div>
-			</div>
 		</div>
+		</div>
+	
+	   </div>
+   </div>
 </div>
-
 
 	
 <div class="container">
@@ -186,24 +109,47 @@
 						<li class="list-group-item pl-0 pr-0 pt-2 pb-2" style="background-color: #353530;">
 Free Overnight Shipping,Hassle-Free Returns | Ships as a loose diamond by: Friday, January 7 | Varies when mounted into a setting</li>
 							</ul>
-						<div class="input-group input-group-lg mb-4">
-						<input type="number" class="form-control text-center" placeholder="Quantity" id="" name="" value="1" min="1" max="5" />
-						<div class="input-group-append" >
-							<span class="input-group-text" style="background-color: #e1ad01; color: #fff;">Quantity</span>
-						</div>
-					</div>
-					<div class="btn-group btn-group-.5g" role="group" aria-label="Basic example" >
-						<button type="button" class="btn btn-secondary" style="background-color: #e1ad01;">
-							
-							<span style="font-size: 14px;" >SELECT THIS DIAMOND</span>
-						</button>
+					
+		
+                      
+
+						 <div  class="input-group input-group-lg mb-4">
+
+<div>
+<button type="button" class="btn btn-secondary"style="background-color: #e1ad01; margin-right:0.2rem; height: 38px;">
+<div class="col text-right"> 
+	<a href="#;" data-toggle="modal" data-target="#forgotPass">						
+	<span style=" font-size:14px; color: #fff;">HOLD</span> </a>
+</div>
+</div>
+
+<div>
+<button type="button" class="btn btn-secondary"style="background-color: #e1ad01; margin-right:0.2rem; height: 38px;">
+
+<div class="col text-right"> 
+	<a href="#;" data-toggle="modal" data-target="#forgotPass1">	
+	<span style="color: #fff;">REQUEST TO CALL </span>	</a>		
+</div>
+</div>         
+                             
+					
+					<button type="button" class="btn btn-secondary" style="background-color: #e1ad01; margin-top:1rem;">
+					<a href="#;" data-toggle="modal" data-target="#forgotPass2">
+							<span style="font-size: 14px; color: #fff;" >ADD TO YOUR FAVOURITE LIST <i class="fas fa-heart"></i> </span>
+						</button> 
+
+						<!-- <button type="button" class="btn btn-secondary"><i class="fas fa-envelope"></i></button>
 						<button type="button" class="btn btn-secondary"><i class="fas fa-shopping-cart"></i></button>
-						<button type="button" class="btn btn-secondary"><i class="fas fa-heart"></i></button>
 						<button type="button" class="btn btn-secondary"><i class="fas fa-exchange-alt"></i></button>
+-->
 					</div>
+					<a href="#;" data-toggle="modal" data-target="#forgotPass3">
+						<p style="padding: 1rem;"><i class="fas fa-envelope"></i> Send us your query </p></a>
 				</div>
 			</div>
 		</div>
+
+
 
 <div class=container>
   <h1>Product Description </h1>
@@ -632,7 +578,7 @@ Each and every diamond sold on our website is exclusive to keystargems.com. Be w
 				<div class="card-header">Account</div>
 				<ul class="list-group list-group-flush">                        		
 					<li class="list-group-item p-2" style="background-color:#353530"><a href="<?php echo base_url();?>Main/sign_in" title="">Sign In</a></li>
-					<li class="list-group-item p-2" style="background-color:#353530"><a href="#" title="">Sign up</a></li>
+					<li class="list-group-item p-2" style="background-color:#353530"><a href="<?php echo base_url();?>Main/sign_up" title="">Sign up</a></li>
 					<li class="list-group-item p-2" style="background-color:#353530"><a href="#" title="">My Account</a></li>
 					<li class="list-group-item p-2" style="background-color:#353530"><a href="#" title="">Order History</a></li>
 					<li class="list-group-item p-2" style="background-color:#353530"><a href="#" title="">Wish List</a></li>
@@ -702,3 +648,143 @@ Each and every diamond sold on our website is exclusive to keystargems.com. Be w
 	
 	</div>
 </div>
+
+
+
+
+ <!-- Modal -->
+ <div class="modal fade" id="forgotPass" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <form method="post" id="forgotpassForm">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Hold Page</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">&times;</span> </button>
+          </div>
+          <div class="modal-body">
+            <div class="form-group">
+              <label class="font-weight-bold">Email <span class="text-danger">*</span></label>
+              <input type="email" name="forgotemail" id="forgotemail" class="form-control" placeholder="Enter your valid email..." required>
+            </div>
+
+			<div class="form-group">
+              <label class="font-weight-bold">Password <span class="text-danger">*</span></label>
+              <input type="password" name="signuppassword" id="signuppassword" class="form-control" placeholder="***********" pattern="^\S{6,}$" onchange="this.setCustomValidity(this.validity.patternMismatch ? 'Must have at least 6 characters' : ''); if(this.checkValidity()) form.password_two.pattern = this.value;"
+                required>
+            </div>
+
+            <div class="form-group">
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Sign In</button>
+            <button type="submit" name="forgotPass" class="btn btn-primary" style="background-color: #e1ad01;"><i class="fa fa-envelope"></i> Send Request</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+ <!-- Modal 2-->
+ <div class="modal fade" id="forgotPass1" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <form method="post" id="forgotpassForm">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Request To Call</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">&times;</span> </button>
+          </div>
+          <div class="modal-body">
+            <div class="form-group">
+              <label class="font-weight-bold">Email <span class="text-danger">*</span></label>
+              <input type="email" name="forgotemail" id="forgotemail" class="form-control" placeholder="Enter your valid email..." required>
+            </div>
+
+			<div class="form-group">
+              <label class="font-weight-bold">Enter Your Phone No</label>
+              <input type="text" name="signupphone" id="signupphone" class="form-control" placeholder="(000)-(0000000)">
+            </div>
+
+           
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" data-dismiss="modal">Sign In</button>
+            <button type="submit" name="forgotPass" class="btn btn-primary" style="background-color: #e1ad01;"><i class="fa fa-envelope"></i> Send Request</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+ <!-- Modal 3-->
+ <div class="modal fade" id="forgotPass2" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <form method="post" id="forgotpassForm">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Congrats, Item added to your wishlist......</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">&times;</span> </button>
+        
+		</div>
+      
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+
+ <!-- Modal 4-->
+ <div class="modal fade" id="forgotPass3" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+      <form method="post" id="forgotpassForm">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Please Send Your Query!</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">&times;</span> </button>
+          </div>
+          <div class="modal-body">
+		  <div class="form-group">
+		  <div class="col-sm-12">
+			<textarea class="form-control" id="" name="" placeholder="Write Your Message" rows="3"></textarea>
+			<small id="" class="form-text text-muted">Note: Please Let us know how we can help you, thank you for choosing us!</small>
+			</div>
+		
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button type="submit" name="forgotPass" class="btn btn-primary" style="background-color: #e1ad01;"><i class="fa fa-envelope"></i> Send Your Message</button>
+          </div>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+

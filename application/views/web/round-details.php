@@ -70,7 +70,7 @@
 				<label class="custom-control custom-checkbox">
 				  <input type="checkbox" checked="" class="custom-control-input">
 				  <div class="custom-control-label">
-				   <img src="<?php echo base_url();?>assets/shapes/shap1.png" style="width:30px; height: 30px;"></img>
+				   <img src="<?php echo base_url();?>assets/shapes/round.png" style="width:30px; height: 30px;"> Round</img>
 					<b class="badge badge-pill badge-light float-right"></b></div>
 			
 				</label>
@@ -78,7 +78,7 @@
 				<label class="custom-control custom-checkbox">
 					<input type="checkbox" checked="" class="custom-control-input">
 					<div class="custom-control-label">
-					<img src="<?php echo base_url();?>assets/shapes/shap2.png" style="width:30px; height: 30px;"></img>
+					<img src="<?php echo base_url();?>assets/shapes/radiant.png" style="width:30px; height: 30px;"> Radiant</img>
 				
 					<b class="badge badge-pill badge-light float-right"></b></div>
 					</label>
@@ -86,14 +86,14 @@
 				  <label class="custom-control custom-checkbox">
 					<input type="checkbox" checked="" class="custom-control-input">
 					<div class="custom-control-label">
-					<img src="<?php echo base_url();?>assets/shapes/shap3.png" style="width:30px; height: 30px;"></img>
+					<img src="<?php echo base_url();?>assets/shapes/princess.png" style="width:30px; height: 30px;"> Princess</img>
 					<b class="badge badge-pill badge-light float-right"></b></div>
 				  </label>
 
 				  <label class="custom-control custom-checkbox">
 					<input type="checkbox" checked="" class="custom-control-input">
 					<div class="custom-control-label">
-					<img src="<?php echo base_url();?>assets/shapes/shap4.png" style="width:30px; height: 30px;"></img>
+					<img src="<?php echo base_url();?>assets/shapes/pear_n.png" style="width:30px; height: 30px;"> Pear</img>
 				
 					<b class="badge badge-pill badge-light float-right"></b></div>
 				  </label>
@@ -101,14 +101,14 @@
 				  <label class="custom-control custom-checkbox">
 					<input type="checkbox" checked="" class="custom-control-input">
 					<div class="custom-control-label">
-					<img src="<?php echo base_url();?>assets/shapes/shap5.png" style="width:30px; height: 30px;"></img>
+					<img src="<?php echo base_url();?>assets/shapes/oval.png" style="width:30px; height: 30px;"> Oval</img>
 						<b class="badge badge-pill badge-light float-right"></b></div>
 				  </label>
 
 				  <label class="custom-control custom-checkbox">
 					<input type="checkbox" checked="" class="custom-control-input">
 					<div class="custom-control-label">
-					<img src="<?php echo base_url();?>assets/shapes/shap6.png" style="width:30px; height: 30px;"></img>
+					<img src="<?php echo base_url();?>assets/shapes/marquise.png" style="width:30px; height: 30px;"> Marquise</img>
 					<b class="badge badge-pill badge-light float-right"></b></div>
 				  </label>
 							
@@ -256,6 +256,89 @@
 
 
 
+
+
+	<article class="filter-group">
+		<header class="card-header">
+			<a href="#" data-toggle="collapse" data-target="#collapse_11" aria-expanded="true" class="">
+
+				<h6 class="title">Fancy  <i class="icon-control fa fa-chevron-down" style="margin-left: 1rem;"></i>  </h6>
+			</a>
+		</header>
+		<div class="filter-content collapse show" id="collapse_11">
+			<div class="card-body">
+				<label class="custom-control custom-checkbox">
+				  <input type="checkbox" checked="" class="custom-control-input">
+				  <div class="custom-control-label">Fancy-Color
+				  	<b class="badge badge-pill badge-light float-right">120</b>  </div>
+				</label>
+				<label class="custom-control custom-checkbox">
+				  <input type="checkbox" checked="" class="custom-control-input">
+				  <div class="custom-control-label">Fancy-Overtone
+				  	<b class="badge badge-pill badge-light float-right">15</b>  </div>
+				</label>
+				<label class="custom-control custom-checkbox">
+				  <input type="checkbox" checked="" class="custom-control-input">
+				  <div class="custom-control-label">Fancy-Intensity
+				  	<b class="badge badge-pill badge-light float-right">35</b> </div>
+				</label>
+			
+	</div> <!-- card-body.// -->
+		</div>
+	</article> <!-- filter-group .// -->
+
+
+
+	
+
+	<article class="filter-group">
+		<header class="card-header">
+			<a href="#" data-toggle="collapse" data-target="#collapse_12" aria-expanded="true" class="">
+
+				<h6 class="title">Fluorescence<i class="icon-control fa fa-chevron-down" style="margin-left: 1rem;"></i>  </h6>
+			</a>
+		</header>
+		<div class="filter-content collapse show" id="collapse_12">
+			<div class="card-body">
+				<label class="custom-control custom-checkbox">
+				  <input type="checkbox" checked="" class="custom-control-input">
+				  <div class="custom-control-label">None
+				  	<b class="badge badge-pill badge-light float-right">120</b>  </div>
+				</label>
+				<label class="custom-control custom-checkbox">
+				  <input type="checkbox" checked="" class="custom-control-input">
+				  <div class="custom-control-label">FNT/V SLT
+				  	<b class="badge badge-pill badge-light float-right">15</b>  </div>
+				</label>
+				<label class="custom-control custom-checkbox">
+				  <input type="checkbox" checked="" class="custom-control-input">
+				  <div class="custom-control-label">MED/SLT
+				  	<b class="badge badge-pill badge-light float-right">35</b> </div>
+				</label>
+
+				<label class="custom-control custom-checkbox">
+				  <input type="checkbox" checked="" class="custom-control-input">
+				  <div class="custom-control-label">STRONG
+				  	<b class="badge badge-pill badge-light float-right">35</b> </div>
+				</label>
+
+				<label class="custom-control custom-checkbox">
+				  <input type="checkbox" checked="" class="custom-control-input">
+				  <div class="custom-control-label">V STRG
+				  	<b class="badge badge-pill badge-light float-right">35</b> </div>
+				</label>
+			
+	</div> <!-- card-body.// -->
+		</div>
+	</article> <!-- filter-group .// -->
+
+
+
+
+
+
+
+
 	<article class="filter-group">
 		<header class="card-header">
 			<a href="#" data-toggle="collapse" data-target="#collapse_4" aria-expanded="true" class="">
@@ -363,11 +446,6 @@
 		<div class="filter-content collapse in" id="collapse_5" >
 			<div class="card-body">
 				<label class="custom-control custom-radio">
-				  <input type="radio" name="myfilter_radio" checked="" class="custom-control-input">
-				  <div class="custom-control-label">Earth Created Diamonds</div>
-				</label>
-
-				<label class="custom-control custom-radio">
 				  <input type="radio" name="myfilter_radio" class="custom-control-input">
 				  <div class="custom-control-label">Lab Created Diamonds</div>
 				</label>
@@ -411,21 +489,20 @@
 				<a href="<?php echo base_url();?>Main/round_details2">
 
 <img src="https://www.pngall.com/wp-content/uploads/2016/04/Diamond-Free-Download-PNG.png" class="img-fluid"></a>
-<a href="<?php echo base_url();?>Main/round_details2" class="btn-overlay">
+<a href="<?php echo base_url();?>Main/round_details2" class="btn-overlay" style="margin-left: 0.5rem;">
 <i class="fa fa-search-plus"></i> Quick view</a>
 			</div> <!-- img-wrap.// -->
 			<figcaption class="info-wrap" style="background-color:#000;">
 				<div class="fix-height">
-					<a href="#" class="title"  style="color:#fff;" >1.00 Carat F SI1 Excellent Cut Round Diamond</a>
+					<a href="#" class="title"  style="color:#fff; margin-left: 0.5rem;" >1.00 Carat F SI1 Excellent Cut Round Diamond</a>
 					<div class="price-wrap mt-2">
-						<span class="price">		<i class="icon-control fas fa-cart-plus"></i> </span>
-						<del class="price-old">	 <i class="icon-control fas fa-heart"></i> </del>
+						<span class="price" style="margin-left: 0.5rem;"><i class="icon-control fas fa-cart-plus"></i> </span>
+						<del class="price-old" style="margin-left: 13rem;">	 <i class="icon-control fas fa-heart"></i> </del>
 				
 	
 					</div> <!-- price-wrap.// -->
 				</div>
-				<a href="<?php echo base_url();?>Main/call_details" class="btn btn-block btn-primary">Request a call </a>
-
+			
 
 				</figcaption>
 		</figure>
@@ -439,24 +516,21 @@
 			
 				<a class="#" href="#"><img src="https://www.pngall.com/wp-content/uploads/2016/04/Diamond-Free-Download-PNG.png" class="img-fluid"> </a>
 		
-             	<a class="btn-overlay" href="#"><i class="fa fa-search-plus"></i> Quick view</a>
+				<a href="<?php echo base_url();?>Main/round_details2" class="btn-overlay" style="margin-left: 0.5rem;">
+<i class="fa fa-search-plus"></i> Quick view</a>
 			</div> <!-- img-wrap.// -->
-			<figcaption class="info-wrap"  style="background-color:#000;" >
+			<figcaption class="info-wrap" style="background-color:#000;">
 				<div class="fix-height">
-					<a href="#" class="title" style="color:#fff;" >1.00 Carat F SI1 Excellent Cut Round Diamond</a>
-		
-				</div>
-				<div class="price-wrap mt-2">
-						<span class="price">	$8000	 </span>
-						<del class="price-old">	$20000 </del>
+					<a href="#" class="title"  style="color:#fff; margin-left: 0.5rem;" >1.00 Carat F SI1 Excellent Cut Round Diamond</a>
+					<div class="price-wrap mt-2">
+						<span class="price" style="margin-left: 0.5rem;"><i class="icon-control fas fa-cart-plus"></i> </span>
+						<del class="price-old" style="margin-left: 13rem;">	 <i class="icon-control fas fa-heart"></i> </del>
 				
 	
+	
 					</div>
-
-				<a href="#" class="btn btn-primary">Request a call </a>  				
-				<a href="#" class="btn btn-primary"><i class="icon-control fas fa-cart-plus"></i></a>	
-					<a href="#" class="btn btn-primary"><i class="icon-control fas fa-heart"></i></a>	
-			</figcaption>
+				
+				</figcaption>
 		</figure>
 	</div> <!-- col.// -->
 
@@ -469,15 +543,15 @@
 			<div class="img-wrap"  style="background-color:#000;" > 
 				<span class="badge badge-danger"> NEW </span>
 				<img src="https://www.pngall.com/wp-content/uploads/2016/04/Diamond-Free-Download-PNG.png" class="img-fluid">
-				<a class="btn-overlay" href="#"><i class="fa fa-search-plus"></i> Quick view</a>
+				<a href="<?php echo base_url();?>Main/round_details2" class="btn-overlay" style="margin-left: 0.5rem;">
+<i class="fa fa-search-plus"></i> Quick view</a>
 			</div> <!-- img-wrap.// -->
-			<figcaption class="info-wrap"  style="background-color:#000;">
-				<div class="fix-height" >
-					<a href="#" class="title" style="color:#fff;">1.00 Carat F SI1 Excellent Cut Round Diamond</a>
+			<figcaption class="info-wrap" style="background-color:#000;">
+				<div class="fix-height">
+					<a href="#" class="title"  style="color:#fff; margin-left: 0.5rem;" >1.00 Carat F SI1 Excellent Cut Round Diamond</a>
 					<div class="price-wrap mt-2">
-					<div class="price-wrap mt-2">
-						<span class="price">		<i class="icon-control fas fa-cart-plus"></i> </span>
-						<del class="price-old">	 <i class="icon-control fas fa-heart"></i> </del>
+						<span class="price" style="margin-left: 0.5rem;"><i class="icon-control fas fa-cart-plus"></i> </span>
+						<del class="price-old" style="margin-left: 13rem;">	 <i class="icon-control fas fa-heart"></i> </del>
 				
 	
 					</div> <!-- price-wrap.// -->
@@ -492,20 +566,20 @@
 		
 					<img src="https://www.pngall.com/wp-content/uploads/2016/04/Diamond-Free-Download-PNG.png" class="img-fluid">
 		
-					<a class="btn-overlay" href="#"><i class="fa fa-search-plus"></i> Quick view</a>
+					<a href="<?php echo base_url();?>Main/round_details2" class="btn-overlay" style="margin-left: 0.5rem;">
+<i class="fa fa-search-plus"></i> Quick view</a>
 			</div> <!-- img-wrap.// -->
-			<figcaption class="info-wrap"  style="background-color:#000;" >
+			<figcaption class="info-wrap" style="background-color:#000;">
 				<div class="fix-height">
-					<a href="#" class="title" style="color:#fff;">1.00 Carat F SI1 Excellent Cut Round Diamond</a>
+					<a href="#" class="title"  style="color:#fff; margin-left: 0.5rem;" >1.00 Carat F SI1 Excellent Cut Round Diamond</a>
 					<div class="price-wrap mt-2">
-					<div class="price-wrap mt-2">
-						<span class="price">		<i class="icon-control fas fa-cart-plus"></i> </span>
-						<del class="price-old">	 <i class="icon-control fas fa-heart"></i> </del>
+						<span class="price" style="margin-left: 0.5rem;"><i class="icon-control fas fa-cart-plus"></i> </span>
+						<del class="price-old" style="margin-left: 13rem;">	 <i class="icon-control fas fa-heart"></i> </del>
 				
 	
 					</div> <!-- price-wrap.// -->
 				</div>
-				<a href="#" class="btn btn-block btn-primary">Request a call </a>	
+				
 			</figcaption>
 		</figure>
 	</div> <!-- col.// -->
@@ -515,20 +589,21 @@
 			<div class="img-wrap"  style="background-color:#000;"> 
 			<img src="https://www.pngall.com/wp-content/uploads/2016/04/Diamond-Free-Download-PNG.png" class="img-fluid">
 				
-			<a class="btn-overlay" href="#"><i class="fa fa-search-plus"></i> Quick view</a>
+			<a href="<?php echo base_url();?>Main/round_details2" class="btn-overlay" style="margin-left: 0.5rem;">
+<i class="fa fa-search-plus"></i> Quick view</a>
 			</div> <!-- img-wrap.// -->
-			<figcaption class="info-wrap"  style="background-color:#000;">
+			<figcaption class="info-wrap" style="background-color:#000;">
 				<div class="fix-height">
-					<a href="#" class="title" style="color:#fff;">1.00 Carat F SI1 Excellent Cut Round Diamond</a>
+					<a href="#" class="title"  style="color:#fff; margin-left: 0.5rem;" >1.00 Carat F SI1 Excellent Cut Round Diamond</a>
 					<div class="price-wrap mt-2">
-					<div class="price-wrap mt-2">
-						<span class="price">		<i class="icon-control fas fa-cart-plus"></i> </span>
-						<del class="price-old">	 <i class="icon-control fas fa-heart"></i> </del>
+						<span class="price" style="margin-left: 0.5rem;"><i class="icon-control fas fa-cart-plus"></i> </span>
+						<del class="price-old" style="margin-left: 13rem;">	 <i class="icon-control fas fa-heart"></i> </del>
 				
+	
 	
 					</div> <!-- price-wrap.// -->
 				</div>
-				<a href="#" class="btn btn-block btn-primary">Request a call </a>
+			
 			</figcaption>
 		</figure>
 	</div> <!-- col.// -->
@@ -538,20 +613,21 @@
 			<div class="img-wrap"  style="background-color:#000;"> 
 			<img src="https://www.pngall.com/wp-content/uploads/2016/04/Diamond-Free-Download-PNG.png" class="img-fluid">
 				
-			<a class="btn-overlay" href="#"><i class="fa fa-search-plus"></i> Quick view</a>
+			<a href="<?php echo base_url();?>Main/round_details2" class="btn-overlay" style="margin-left: 0.5rem;">
+<i class="fa fa-search-plus"></i> Quick view</a>
 			</div> <!-- img-wrap.// -->
-			<figcaption class="info-wrap"  style="background-color:#000;" >
+			<figcaption class="info-wrap" style="background-color:#000;">
 				<div class="fix-height">
-					<a href="#" class="title" style="color:#fff;">1.00 Carat F SI1 Excellent Cut Round Diamond</a>
+					<a href="#" class="title"  style="color:#fff; margin-left: 0.5rem;" >1.00 Carat F SI1 Excellent Cut Round Diamond</a>
 					<div class="price-wrap mt-2">
-					<div class="price-wrap mt-2">
-						<span class="price">		<i class="icon-control fas fa-cart-plus"></i> </span>
-						<del class="price-old">	 <i class="icon-control fas fa-heart"></i> </del>
+						<span class="price" style="margin-left: 0.5rem;"><i class="icon-control fas fa-cart-plus"></i> </span>
+						<del class="price-old" style="margin-left: 13rem;">	 <i class="icon-control fas fa-heart"></i> </del>
 				
+	
 	
 					</div> <!-- price-wrap.// -->
 				</div>
-				<a href="#" class="btn btn-block btn-primary">Request a call </a>	
+		
 			</figcaption>
 		</figure>
 	</div> <!-- col.// -->
@@ -561,20 +637,19 @@
 			<div class="img-wrap"  style="background-color:#000;"> 
 			<img src="https://www.pngall.com/wp-content/uploads/2016/04/Diamond-Free-Download-PNG.png" class="img-fluid">
 						
-			<a class="btn-overlay" href="#"><i class="fa fa-search-plus"></i> Quick view</a>
+			<a href="<?php echo base_url();?>Main/round_details2" class="btn-overlay" style="margin-left: 0.5rem;">
+<i class="fa fa-search-plus"></i> Quick view</a>
 			</div> <!-- img-wrap.// -->
-			<figcaption class="info-wrap"  style="background-color:#000;">
+			<figcaption class="info-wrap" style="background-color:#000;">
 				<div class="fix-height">
-					<a href="#" class="title" style="color:#fff;">1.00 Carat F SI1 Excellent Cut Round Diamond</a>
+					<a href="#" class="title"  style="color:#fff; margin-left: 0.5rem;" >1.00 Carat F SI1 Excellent Cut Round Diamond</a>
 					<div class="price-wrap mt-2">
-					<div class="price-wrap mt-2">
-						<span class="price">		<i class="icon-control fas fa-cart-plus"></i> </span>
-						<del class="price-old">	 <i class="icon-control fas fa-heart"></i> </del>
+						<span class="price" style="margin-left: 0.5rem;"><i class="icon-control fas fa-cart-plus"></i> </span>
+						<del class="price-old" style="margin-left: 13rem;">	 <i class="icon-control fas fa-heart"></i> </del>
 				
 	
 					</div> <!-- price-wrap.// -->
-				</div>
-				<a href="#" class="btn btn-block btn-primary">Request a call </a>	
+				</div>	
 			</figcaption>
 		</figure>
 	</div> <!-- col.// -->
@@ -585,20 +660,20 @@
 				<img src="https://www.pngall.com/wp-content/uploads/2016/04/Diamond-Free-Download-PNG.png" class="img-fluid">
 		
 			
-				<a class="btn-overlay" href="#"><i class="fa fa-search-plus"></i> Quick view</a>
+				<a href="<?php echo base_url();?>Main/round_details2" class="btn-overlay" style="margin-left: 0.5rem;">
+<i class="fa fa-search-plus"></i> Quick view</a>
 			</div> <!-- img-wrap.// -->
-			<figcaption class="info-wrap"  style="background-color:#000;">
+			<figcaption class="info-wrap" style="background-color:#000;">
 				<div class="fix-height">
-					<a href="#" class="title" style="color:#fff;">1.00 Carat F SI1 Excellent Cut Round Diamond</a>
+					<a href="#" class="title"  style="color:#fff; margin-left: 0.5rem;" >1.00 Carat F SI1 Excellent Cut Round Diamond</a>
 					<div class="price-wrap mt-2">
-					<div class="price-wrap mt-2">
-						<span class="price">		<i class="icon-control fas fa-cart-plus"></i> </span>
-						<del class="price-old">	 <i class="icon-control fas fa-heart"></i> </del>
+						<span class="price" style="margin-left: 0.5rem;"><i class="icon-control fas fa-cart-plus"></i> </span>
+						<del class="price-old" style="margin-left: 13rem;">	 <i class="icon-control fas fa-heart"></i> </del>
 				
 	
 					</div> <!-- price-wrap.// -->
 				</div>
-				<a href="#" class="btn btn-block btn-primary">Request a call </a>	
+		
 			</figcaption>
 		</figure>
 	</div> <!-- col.// -->
@@ -608,10 +683,10 @@
 <nav class="mt-4" aria-label="Page navigation sample">
   <ul class="pagination" >
     <li class="page-item disabled"><a class="page-link" href="#"  style="background-color:#353530;">Previous</a></li>
-    <li class="page-item active"><a class="page-link" href="#"  style="background-color:#353530;">1</a></li>
-    <li class="page-item"><a class="page-link" href="#"  style="background-color:#353530;">2</a></li>
-    <li class="page-item"><a class="page-link" href="#"  style="background-color:#353530;">3</a></li>
-    <li class="page-item"><a class="page-link" href="#"  style="background-color:#353530;">Next</a></li>
+    <li class="page-item active"><a class="page-link" href="#"  style="background-color:#e1ad01; color: #fff">1</a></li>
+    <li class="page-item"><a class="page-link" href="#"  style="background-color:#e1ad01; color: #fff">2</a></li>
+    <li class="page-item"><a class="page-link" href="#"  style="background-color:#e1ad01; color: #fff">3</a></li>
+    <li class="page-item"><a class="page-link" href="#"  style="background-color:#e1ad01; color:#fff">Next</a></li>
   </ul>
 </nav>
 
